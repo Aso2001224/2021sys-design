@@ -7,10 +7,10 @@ start
 
 if(日付==今日)then(true)
 :「改札を通る」;
-else
+else then(false)
 :改札を通れない;
 endif
-
+end
 
 @enduml
 ```
