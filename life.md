@@ -1,3 +1,4 @@
+```uml
 @startuml
 start
 :切符を買う;
@@ -10,3 +11,4 @@ endif
 
 end
 @enduml
+```
