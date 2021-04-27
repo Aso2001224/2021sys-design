@@ -7,7 +7,7 @@ start
 
 if(日付==今日)then(true)
 :「改札を通る」;
-else if(日付!=今日)then(false)
+else 
 :改札を通れない;
 endif
 end
