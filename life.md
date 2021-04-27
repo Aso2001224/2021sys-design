@@ -10,7 +10,7 @@ if(日付==今日)then(true)
 else 
 :改札を通れない;
 endif
-end
+stop
 
 @enduml
 ```
