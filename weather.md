@@ -1,7 +1,7 @@
 ```uml
 @startuml
 start
-: 天気情報=1;
+: 天気情報=0;
 if(天気情報 == 0)then(true){
 :晴れです;
 }else if(天気情報 == 1)then(false){
