@@ -11,5 +11,6 @@ if(天気情報== 晴れ){
 }else{
 :不明です。;
 endif
+end
 @enduml
 ```
