@@ -6,7 +6,7 @@ DBサーバー-> DBサーバー:ログイン処理
 DBサーバー->webサーバー:認証結果
 webサーバー->ユーザー:認証結果
 
-activate　ユーザー
+activate ユーザー
 
 
 deactivate ユーザー
