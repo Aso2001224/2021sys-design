@@ -19,6 +19,7 @@ opt ログイン中
 webサーバー->DBサーバー:ログアウト照会
 DBサーバー->DBサーバー:ログアウト処理
 DBサーバー->webサーバー:ログアウト結果
+end
 deactivate ユーザー
 @enduml
 ```
