@@ -11,4 +11,6 @@ webサーバー->ユーザー:登録メッセージを表示
 else 登録失敗
 end
 
+@startuml
+opt ログイン
 end
