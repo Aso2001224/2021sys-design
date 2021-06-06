@@ -13,4 +13,8 @@ end
 
 @startuml
 opt ログイン
+alt ログイン成功
+webサーバー->ユーザー: ログイン成功画面表示
+else ログイン失敗
+
 end
