@@ -16,9 +16,12 @@ opt ログイン
 alt ログイン成功
 webサーバー->ユーザー: ログイン成功画面表示
 else ログイン失敗
-
 @startuml
-loop 検索
+opt ログアウト
+alt ログアウト成功
+web
+@startuml
+activate ユーザー
 ユーザー->webサーバー:商品検索
 DBサーバー->DBサーバー:検索処理
 DBサーバー->webサーバー:検索結果
