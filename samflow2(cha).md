@@ -19,7 +19,7 @@ else ログイン失敗
 @startuml
 opt ログアウト
 alt ログアウト成功
-web
+
 @startuml
 activate ユーザー
 ユーザー->webサーバー:商品検索
