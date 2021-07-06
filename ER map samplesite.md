@@ -9,5 +9,5 @@ price
 num
 }
 <<T,TRANSACTION_MARK_COLOR>>ha
-@enduml erd
+@enduml 
 ```
