@@ -8,6 +8,6 @@ item_code
 price
 num
 }
-<<T,TRANSACTION_MARK_COLOR>>ha
+<<T,TRANSACTION_MARK_COLOR>>
 @enduml 
 ```
