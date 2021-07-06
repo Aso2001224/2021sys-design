@@ -2,7 +2,7 @@
 @startuml
 Entity01}|..||Entity02
 Entity03}o..o|Entity04
-Entity05||--o{Entity05
+Entity05||--o{Entity06
 Entity07|o--||Entity08
 @enduml
 ```
