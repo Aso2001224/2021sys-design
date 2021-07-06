@@ -7,7 +7,7 @@ order_id[FK]
 item_code
 price
 num
-}
+};
 <<T,TRANSACTION_MARK_COLOR>>
 @enduml 
 ```
