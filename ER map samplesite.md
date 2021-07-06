@@ -1,5 +1,5 @@
 ```startuml
-@startuml
+@startuml erd
 entity "購入テーブル詳細" as purchase_detail<d_purchase_detail><<T,TRANSACTION_MARK_COLOR>>{
 + detail_id[PK]
 --
@@ -8,8 +8,6 @@ item_code
 price
 num
 }
- 
-
 <<T,TRANSACTION_MARK_COLOR>>ha
-@enduml
+@enduml erd
 ```
