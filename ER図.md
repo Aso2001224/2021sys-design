@@ -48,5 +48,9 @@ reg_date
 
 }
 
+items ||-{purchase_detail
+
+
+
 @enduml 
 ```
