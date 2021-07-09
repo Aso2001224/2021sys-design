@@ -49,6 +49,7 @@ reg_date
 }
 
 items ||-{purchase_detail
+purchase_detail le
 items||-do-o{category
 purchase_detail||-le-|{  purchase
 customer|o-o{purchase
