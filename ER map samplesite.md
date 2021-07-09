@@ -29,6 +29,12 @@ item_code
 price
 num
 }
+entity "カテゴリマスタ" as category <m_category><<T,TRANSACTION_MARK_COLOR>>{
++category_id[PK]
+--
+name
+reg_date
+}
 entity "商品マスタ" as items <m_items><<M_MASTER_MARK_COLOR>>{
 +item_code[PK]
 --
@@ -39,6 +45,7 @@ image
 detail
 del_flag
 reg_date
+
 }
 
 @enduml 
