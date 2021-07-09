@@ -49,7 +49,7 @@ reg_date
 }
 
 items ||-{purchase_detail
-items||-o{category
+items||-doo{category
 
 
 @enduml 
