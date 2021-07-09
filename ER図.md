@@ -49,9 +49,9 @@ reg_date
 }
 
 items ||-{purchase_detail
-purchase_detail le
+
 items||-do-o{category
-purchase_detail||-le-|{  purchase
+purchase_detail||-ri-|{  purchase
 customer|o-o{purchase
 @enduml 
 ```
