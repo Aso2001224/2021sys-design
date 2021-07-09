@@ -47,6 +47,6 @@ del_flag
 reg_date
 
 }
-
+顧客マスタ|oo..{購入テーブル
 @enduml 
 ```
