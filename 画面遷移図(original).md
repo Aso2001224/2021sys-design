@@ -6,6 +6,5 @@
 ログイン:entry/id,passwordを入力
 ログイン:do/ログイン認証
 トップページ-->会員情報:会員登録をクリック
-会員情報: do/id,passwordなどを出力
 @enduml
 ```
